@@ -40,7 +40,8 @@ En este proyecto se utilizó técnicas de segmentación de clientes para optimiz
 ## Solución
   
 <div align="center">
-    <a target="_blank" href="https://www.loom.com/share/053f36b142be44468693591917a0bf12" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/053f36b142be44468693591917a0bf12-1656389474093-with-play.gif)</a>
+  
+<a target="_blank" href="https://www.loom.com/share/053f36b142be44468693591917a0bf12" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/053f36b142be44468693591917a0bf12-1656389474093-with-play.gif)</a>
  
 </div>
   
