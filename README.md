@@ -38,13 +38,13 @@ En este proyecto se utilizó técnicas de segmentación de clientes para optimiz
 </h4>
 
 ## Solución
-<div align="center">
   
-  <a target="_blank" href="https://www.loom.com/share/2c86d07be73f44129c84a6433b162720" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/053f36b142be44468693591917a0bf12-1656389474093-with-play.gif)</a>
+<div align="center">
+    <a target="_blank" href="https://www.loom.com/share/053f36b142be44468693591917a0bf12" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/053f36b142be44468693591917a0bf12-1656389474093-with-play.gif)</a>
  
 </div>
   
- Contenido
+ #### Contenido
   
 - Fuente de datos pre-procesada (datos limpios)
 - Una pestaña de reporte con tablas y gráficos de las métricas principales del negocio
