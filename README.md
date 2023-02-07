@@ -30,7 +30,7 @@ Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/
 
     Conduct a descriptive analysis using historical data from a wholesale sales company.
 
-> In this project, customer segmentation techniques were used to optimize an online business.
+In this project, customer segmentation techniques were used to optimize an online business.
 
 
 > <h4 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1szq1pE14FpC8bEvttlZjI7sVa8MXnyl86RslE6tBEkM/edit?usp=sharing"> Google Sheets Report</a>
