@@ -1,22 +1,24 @@
-<div align="center"> <h1> Segmentación de Clientes de un e-commerce </h1>  
+<div align="center"> <h1> Customer Segmentation of an E-commerce </h1>  
   
 ![](/portada_2.jpg)
   
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
+Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM
 </div>
 
-## 🎓 Objetivos del proyecto
+❕ [SEE VERSION SPANISH EDITION](https://github.com/gianelytics/Data-analytics-Project-3/blob/0253183a37d356f1945d8ed560f1f3c7df7fcb73/README_spanish.md)
 
-- Pre-procesar datos en hojas de cálculo
-- Organizar datos en hojas de cálculo
-- Manipular datos en hojas de cálculo
-- Visualizar datos en hojas de cálculo y en una herramienta Looker Studio
-- Realizar un análisis por cohorte
-- Segmentar clientes utilizando el modelo RFM y regla de pareto
+## 🎓 Project objectives
 
-## Contexto
+- Pre-process data in spreadsheets
+- Organize data in spreadsheets
+- Manipulate data in spreadsheets
+- Visualize data in spreadsheets and in a Looker Studio tool
+- Conduct a cohort analysis
+- Segment customers using the RFM model and Pareto rule
 
->En este proyecto se realizará un análisis descriptivo que permitirá mostrar a la CEO de una empresa de comercio online, qué tan bien o mal están yendo las ventas en la compañía, medir el engagement de los clientes a partir de un análisis de cohortes, y realizar una segmentación de clientes aplicando la metodología RFM, con el objetivo de que el negocio pueda enfocar sus esfuerzos y tomar estrategias distintas por cada segmento.
+## 📌 Context
+
+>In this project, a descriptive analysis will be carried out to show the CEO of an online sales company how sales are going in the company, measure customer engagement through a cohort analysis, and perform customer segmentation using the RFM methodology, with the goal of enabling the business to focus its efforts and adopt different strategies for each segment.
 
 <div align="center">
   
@@ -24,20 +26,21 @@ Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/si
   </div>
 
 
-## Reporte
+## 🔎 Report 
 
-    Realizar un análisis descriptivo utilizando datos históricos de una empresa de ventas al por mayor.
+    Conduct a descriptive analysis using historical data from a wholesale sales company.
 
-En este proyecto se utilizó técnicas de segmentación de clientes para optimizar un negocio online.
+> In this project, customer segmentation techniques were used to optimize an online business.
 
-<h4 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1szq1pE14FpC8bEvttlZjI7sVa8MXnyl86RslE6tBEkM/edit?usp=sharing">Proyecto 3: Reporte Google Sheets</a>
+
+> <h4 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1szq1pE14FpC8bEvttlZjI7sVa8MXnyl86RslE6tBEkM/edit?usp=sharing"> Google Sheets Report</a>
   
-<h4 align="left"> 👩‍💻 <a href="https://lookerstudio.google.com/reporting/60c3201d-571b-4c58-b171-371b9546c5e8">Proyecto 3: Reporte Looker Studio</a>
+> <h4 align="left"> 👩‍💻 <a href="https://lookerstudio.google.com/reporting/60c3201d-571b-4c58-b171-371b9546c5e8">Looker Studio Report</a>
   
-<h4 align="left"> 📄 <a href="https://docs.google.com/presentation/d/1LbIEdWGu7IPy_f5uYpilj-qXsjs19kB-WkYvei62cKo/edit?usp=sharing">Proyecto 3: Reporte Google Slides </a>
+> <h4 align="left"> 📄 <a href="https://docs.google.com/presentation/d/1LbIEdWGu7IPy_f5uYpilj-qXsjs19kB-WkYvei62cKo/edit?usp=sharing">Google Slides Report </a>
 </h4>
 
-## Solución
+## 💡 Solution
   
 <div align="center">
   
@@ -45,13 +48,13 @@ En este proyecto se utilizó técnicas de segmentación de clientes para optimiz
  
 </div>
   
- #### Contenido
+ ### 📄 Content
   
-- Fuente de datos pre-procesada (datos limpios)
-- Una pestaña de reporte con tablas y gráficos de las métricas principales del negocio
-- Una pestaña con un análisis por cohorte general y también uno para clientes UK y clientes no-UK
-- Una segmentación usando la metodología RFM
-  
-### 🏷️Tags
+- Pre-processed data source (clean data)
+- A report tab with tables and graphs of the main business metrics
+- A tab with a general cohort analysis and also one for UK customers and non-UK customers
+- A segmentation using the RFM methodology
 
-`Spreadsheets` | `Segmentación RFM` | `Análisis por cohortes` | `Visualización` | `Looker Studio` 
+## 🏷️Tags
+
+`Spreadsheets` | `RFM Segmentation` | `Cohort Analysis` | ` Visualization` | `Looker Studio` 
